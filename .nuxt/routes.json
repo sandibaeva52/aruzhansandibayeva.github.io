@@ -1,0 +1,30 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/sandibaeva52/Documents/nuxtjs-tailwind-blog/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_15b60824"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "/Users/sandibaeva52/Documents/nuxtjs-tailwind-blog/pages/projects.vue",
+    "chunkName": "pages/projects",
+    "_name": "_49415fb9"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "/Users/sandibaeva52/Documents/nuxtjs-tailwind-blog/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_13ff66dc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sandibaeva52/Documents/nuxtjs-tailwind-blog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_31277a23"
+  }
+]
